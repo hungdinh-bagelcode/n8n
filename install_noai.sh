@@ -1,4 +1,3 @@
-#!/bin/bash
 echo "--------- 🟢 Start install docker -----------"
 sudo apt update
 sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
